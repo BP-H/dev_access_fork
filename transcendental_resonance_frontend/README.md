@@ -2,13 +2,6 @@
 
 A minimalist social metaverse UI built with [NiceGUI](https://nicegui.io/) for interacting with the Transcendental Resonance protocol. This repository contains the modular front-end split from a single monolithic file.
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-nicegui src/main.py
-```
-
 ### Demo mode
 
 To explore the UI without a running backend, load the bundled sample data and
